@@ -1,0 +1,1 @@
+This is a Tic Tac Toe Game where there are options to play against the computer or against a friend in a 2 player mode.
